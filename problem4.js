@@ -1,0 +1,16 @@
+console.log("🆂  🅲  🅷 🅾 🅾 🅻  🅽 🅰 🅼 🅴: 🆂 🆂 🆃");
+let studentName = "🅡 🅐 🅜 🅔 🅢 🅗  🅚 🅤 🅜 🅐 🅡";
+let grade = "🅰";
+let section = "🅲";
+let rollNo = 25;
+let mat = 98;
+let eng = 100;
+let sci = 98;
+let totalMarks  = mat + eng +sci;
+console.log(`Student'name:${studentName}`);
+console.log(`Section:${section}`);
+console.log(`Math:${mat}`);
+console.log(`Eng:${eng}`);
+console.log(`Sci:${sci}`);
+console.log(`Total marks:${totalMarks}`);
+console.log(`Grade:${grade}`);
